@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;600;700&family=IBM+Plex+Sans:ital,wght@0,100;0,400;1,100;1,200;1,300&family=Inter:wght@100;400;500&display=swap');
+body{
+    background-color: black;
+}
+.container {
+    
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    box-sizing: border-box; 
+    flex-wrap: wrap;
+    
+}
+
+
+.box{
+    
+    display: flex;
+    justify-content: center;
+    height: 200px;
+    width: 200px;
+    flex-wrap: wrap;
+    
+    
+}
+.logo{
+    
+    
+    width: 300px;
+    height: 90px;
+}
+.conteudo {
+    
+    height: 500px;
+    align-items:center;
+    display: flex;
+    align-items: center;
+    
+    
+    
+
+    
+}
+.conteudo-itens {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    height: 400px;
+    font-family: 'IBM Plex Sans', sans-serif;
+    
+}
+
+.frase {
+    width: 800px;
+    font-size: 24px;
+    color: aliceblue;
+    margin-left: 600px ;
+    margin-bottom: 40px;
+}
+.card{
+    display: flex;
+    color: aliceblue;
+    width: 700px;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+    
+    
+
+}
+a{
+    margin: 10px;
+    text-decoration: none;
+    color: aliceblue;
+}
+img{
+    height: 160px;
+    width: 160px;
+    
+
+}
+p{
+    height: 15px;
+}
+button{
+    height: 184px;
+    height: 176px;
+    background-color: black;
+    color: aliceblue;
+}
+
+ul{
+    display: flex;
+    margin-bottom: 30px ;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+
+    
+    
+}
+.gerenciar {
+    margin:30px;
+    border: 2px solid rgb(140, 140, 141);
+    border-radius: 5px;
+    font-size: 22px;
+    height: 30px;
+    
+}
+
+   
+
+
+
